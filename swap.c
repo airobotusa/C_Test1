@@ -12,7 +12,7 @@ int main(void)
     int temp = x;
     x = y;
     y = temp;
-	// swapping is done
+    // swapping is done
     	
     printf("x is now %i\n", x);
     printf("y is now %i\n", y);
